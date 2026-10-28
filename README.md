@@ -32,5 +32,8 @@ The Password Strength Checker is a Java-based desktop application that evaluates
 ## Security Note
 Never store database passwords directly in the source code. Use environment variables and keep credentials private.
 
+## Screenshot
+![Password Strength Checker](screenshots/password-checker.png)
+
 ## Author
 Developed as a Java project.
